@@ -14,4 +14,6 @@ news_app_01 | V1.0.0 | 2019-6-29
 news_twinex_01 | V1.0.0 | 2019-6-29
 news_e2v_01 | V1.0.0 | 2019-6-30
 
-[news_e2v_01.png]("./news_e2v_01.png")
+[news_e2v_01.png]("news_e2v_01.png")
+![avatar]("news_e2v_01.png")
+![news_e2v_01.png]("news_e2v_01.png")
