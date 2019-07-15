@@ -1,0 +1,11 @@
+
+
+Cryptozoic VCC blockchain explorer
+　　
+
+
+http://www.vccscan.com
+　　
+
+
+and will support multiple types of information querying and transmit blockchain value network.
